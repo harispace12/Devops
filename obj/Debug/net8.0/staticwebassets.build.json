@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l0La1MqYXiw2NYvDerJia+qFBS9/vZv4I14nXTsxTxA=",
+  "Source": "AzureDevopsDemo",
+  "BasePath": "_content/AzureDevopsDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
